@@ -78,7 +78,7 @@ section > div {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
     row-gap: 15px;
     box-shadow: 0 5px #888888;
